@@ -3,7 +3,7 @@ This was my capstone project for the Coursera Advanced Data Science with IBM Spe
 
 To get started:
 
-1. In the docs directory, view the project presentation, Chronic Absenteeism Rate Prediction.pdf to familiarize yourself with the project. Optionally, read the accompanying architectural decisions Document.
+1. In the docs directory, view the project presentation, Chronic Absenteeism Rate Prediction.pdf to familiarize yourself with the project. Optionally, read the accompanying architectural decisions document.
 
 2. Place the five Jupyter notebooks where you plan to execute them.  If you are using IBM Watson Studio, upload them to your project.
 
