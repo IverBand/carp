@@ -17,11 +17,14 @@ Point your browser to this URL, select California in the dropdown menu, and clic
 
 6. Some of the notebooks install their own modules.  Depending on the contents of the Jupyter kernel you are using, you may want or need to adjust these cells with !pip commands.
 
-6. Execute the notebooks for the first time in the following order:
+7. Execute the notebooks for the first time in the following order:
 
     a. CARP-ETL - Extract, Transform, and Load
+    
     b. CARP-EXP - Data Exploration
+    
     c. CARP-DNN and CARP-DTE - Deep Neural Network and Decision Tree Ensemble - either may be executed first
+    
     d. CARP-ME - Model Evaluation
   
   Enjoy!
