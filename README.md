@@ -19,10 +19,10 @@ Point your browser to this URL, select California in the dropdown menu, and clic
 
 6. Execute the notebooks for the first time in the following order:
 
-  a. CARP-ETL - Extract, Transform, and Load
-  b. CARP-EXP - Data Exploration
-  c. CARP-DNN and CARP-DTE - Deep Neural Network and Decision Tree Ensemble - either may be executed first
-  d. CARP-ME - Model Evaluation
+    a. CARP-ETL - Extract, Transform, and Load
+    b. CARP-EXP - Data Exploration
+    c. CARP-DNN and CARP-DTE - Deep Neural Network and Decision Tree Ensemble - either may be executed first
+    d. CARP-ME - Model Evaluation
   
   Enjoy!
   
